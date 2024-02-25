@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @mete0rb AKA Mete0rbiz  
+- 👋 Hello there, I’m @mete0rb AKA Mete0rbiz  
 - 👀 I’m interested in all kind of problem solving
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on open-source softwares
