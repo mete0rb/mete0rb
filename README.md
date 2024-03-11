@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on open-source softwares
 - 📫 How to reach me you cna reach me via my email if you know you know!
+- Fun Facts ...
 
 <!---
 mete0rb/mete0rb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
